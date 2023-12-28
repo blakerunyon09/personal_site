@@ -4,6 +4,6 @@
 
 <template>
   <main>
-    <p>Hello => I am Blake</p>
+    <p>Hello, I am Blake</p>
   </main>
 </template>
